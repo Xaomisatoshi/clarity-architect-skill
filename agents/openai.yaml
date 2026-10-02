@@ -1,0 +1,16 @@
+interface:
+  display_name: clarity architect
+  short_description: Use when the user provides unclear thoughts, messy notes, unfinished
+    text, scattered ideas, process fragments, workflow drafts, or communication that
+    needs to become clear, structured, actionable, and ready for handoff. Also use
+    when the user asks for clarity, structure, refinement, condensation, next steps,
+    agent handoff, decision framing, or a quality/status matrix.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
